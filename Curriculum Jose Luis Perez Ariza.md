@@ -10,10 +10,10 @@
 
 ## FORMACIÓN
 
-- 1º Y 2º DE B.U.P. Cursado en I.E.S. DOMENICO SCARLATTI de Aranjuez (MADRID) 1992-1994
+- Bachillerato Cursado en I.E.S. DOMENICO SCARLATTI de Aranjuez (MADRID) 1992-1994
 - OFIMÁTICA (1998), organizado por el CENTRO DE INFORMÁTICA APLICADA ARGON (MADRID)
 - EDICIÓN DE MEDIOS DIGITALES PARA PYMES (2011) CENTRO DE NUEVAS TECNOLOGÍAS de Aranjuez (MADRID)
-- Resto de Formación realizada de forma autodidacta
+- Resto de Formación realizada de forma autodidacta y/o en formaciones de Empresa.
 
 ## IDIOMAS / INFORMÁTICA
 
@@ -26,15 +26,15 @@
 
 - **DHL (2022-Actualidad)**
   - IT Solutions Specialist
-  - Gestion y configuracion de Blueyonder (JDA)
+  - Gestion y configuración de Blueyonder (JDA)
 
 - **DHL (2019-2022)**
   - COORDINADOR IT
-  - Gestion de Blueyonder(JDA), Oracle DB (SQL), Power BI .
+  - Gestión de Blueyonder (JDA), Oracle DB (SQL), Power BI .
 
 - **ID LOGISTICS (2016-2019)**
   - SUPERVISOR
-  - Departamento Sistema (INFOLOG), Administración y Gestión de Stock.
+  - Gestión y configuración de Sistema WMS INFOLOG, y Liderando los departamentos de Administración y Gestión de Stock.
 
 - **ID LOGISTICS (2012-2016)**
   - ADMINISTRATIVO
